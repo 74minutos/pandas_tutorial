@@ -1,0 +1,1 @@
+Proyecto de Jupyter Notebook para mostrar diferentes técnicas de limpieza y manipulación de datos en Pandas. Asociado a [este artículo](https://visiondefunnel.com/2021/08/10/como-limpiar-y-estructurar-tus-datos-con-pandas-parte-2/)
